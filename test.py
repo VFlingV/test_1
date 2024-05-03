@@ -4,4 +4,4 @@ print(a)
 
 c = a * b
 
-print(c*2)
+print(c)
